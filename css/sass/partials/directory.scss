@@ -1,0 +1,20 @@
+section.home__directory div {
+  height: 100px;
+  width: 300px;
+  margin: auto;
+  background-image: $arches-texture;
+}
+
+.home__directory__projects {
+  background: $red--main;
+  background: $green--main;
+}
+
+.home__directory__bio {
+  background: $purple--main;
+  background: $green--main;
+}
+
+.home__directory__resume {
+  background: $green--main;
+}
